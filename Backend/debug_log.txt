@@ -1,0 +1,19 @@
+Array
+(
+    [firstName] => Narasinga
+    [lastName] => A
+    [dob] => 2001-10-23
+    [gender] => Male
+    [maritalStatus] => Single
+    [email] => moorthyn007@gmail.com
+    [contactNumber] => 08428642785
+    [address] => 4/179 Housing Board, Ettayapuram Road, Tuticorin
+    [city] => Thoothukudi
+    [pincode] => 628002
+    [emergencyContactName] => Ganapathy
+    [emergencyContactNumber] => 7092639921
+    [emergencyRelation] => Brother
+    [assistanceType] => loneliness
+    [seenMentalHealthProfessional] => No
+    [lonelinessNotes] => hhhhhhh
+)
